@@ -10,6 +10,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [OS X](#os-x)
 * [MongoDB](#mongodb)
 
 # Git
@@ -19,3 +20,6 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 # Linux
 
 # MongoDB
+
+# OS X
+* [Send terminal notifications](osx/send-terminal-notifications.md)
