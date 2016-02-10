@@ -20,6 +20,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 # Linux
 
 # MongoDB
+* [Set time limit for query](mongodb/set-time-limit-for-query.md)
 
 # OS X
 * [Send terminal notifications](osx/send-terminal-notifications.md)
