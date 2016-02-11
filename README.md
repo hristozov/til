@@ -10,8 +10,9 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
-* [OS X](#os-x)
 * [MongoDB](#mongodb)
+* [OS X](#os-x)
+* [Python](#python)
 
 # Git
 
@@ -24,3 +25,6 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 
 # OS X
 * [Send terminal notifications](osx/send-terminal-notifications.md)
+
+# Python
+* [Get directory of current script](python/get-directory-of-current-script.md)
