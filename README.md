@@ -26,7 +26,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Generate an UUID](linux/generate-uuid.md)
 
 # MongoDB
-* [Set time limit for query](mongodb/set-time-limit-for-query.md)
+* [Set time limit for a query](mongodb/set-time-limit-for-query.md)
 
 # OS X
 * [Send terminal notifications](osx/send-terminal-notifications.md)
