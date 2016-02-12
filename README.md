@@ -7,6 +7,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 
 # Categories
 
+* [Bash](#bash)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -14,11 +15,15 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [OS X](#os-x)
 * [Python](#python)
 
+# Bash
+* [Trap a signal](bash/catch-signal.md)
+
 # Git
 
 # JavaScript
 
 # Linux
+* [Generate an UUID](linux/generate-uuid.md)
 
 # MongoDB
 * [Set time limit for query](mongodb/set-time-limit-for-query.md)
