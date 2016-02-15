@@ -21,6 +21,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 # Git
 
 # JavaScript
+* [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
 
 # Linux
 * [Generate an UUID](linux/generate-uuid.md)
