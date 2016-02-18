@@ -24,6 +24,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 # JavaScript
 * [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
 * [Find duplicate code with jscpd](javascript/find-duplicate-code-with-jscpd.md)
+* [Destructing assignment](javascript/destructing-assignment.md)
 
 # Linux
 * [Generate an UUID](linux/generate-uuid.md)
