@@ -19,7 +19,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Trap a signal](bash/catch-signal.md)
 
 # Git
-* [Ignore a file from git](git/ignore-file-from-git.md)
+* [Locally ignore a file from git](git/locally-ignore-file-from-git.md)
 
 # JavaScript
 * [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
