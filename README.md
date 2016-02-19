@@ -22,9 +22,10 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Locally ignore a file from git](git/locally-ignore-file-from-git.md)
 
 # JavaScript
-* [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
-* [Find duplicate code with jscpd](javascript/find-duplicate-code-with-jscpd.md)
 * [Destructing assignment](javascript/destructing-assignment.md)
+* [Find duplicate code with jscpd](javascript/find-duplicate-code-with-jscpd.md)
+* [Mock `require`](javascript/mock-require.md)
+* [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
 
 # Linux
 * [Generate an UUID](linux/generate-uuid.md)
