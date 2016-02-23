@@ -24,6 +24,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 # JavaScript
 * [Destructing assignment](javascript/destructing-assignment.md)
 * [Find duplicate code with jscpd](javascript/find-duplicate-code-with-jscpd.md)
+* [Kill a process group](javascript/kill-process-group.md)
 * [Mock `require`](javascript/mock-require.md)
 * [Use a mock clock in Jasmine](javascript/use-mock-clock-in-jasmine.md)
 
