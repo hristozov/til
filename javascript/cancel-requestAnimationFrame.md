@@ -1,6 +1,6 @@
 # Cancel requestAnimationFrame() (2016-08-15)
 
-`requestAnimationFrame()` returns an ID which can be used to cancel the "request" later, using `cancelAnimationFrame()`:
+`requestAnimationFrame()` returns an ID which can be used to cancel the "request" later, using [`cancelAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/cancelAnimationFrame):
 
 ```javascript
 var id = window.requestAnimationFrame(function() { ... });
