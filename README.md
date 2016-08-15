@@ -22,6 +22,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Locally ignore a file from git](git/locally-ignore-file-from-git.md)
 
 # JavaScript
+* [Cancel `requestAnimationFrame()`](javascript/cancel-requestAnimationFrame.md)
 * [Destructing assignment](javascript/destructing-assignment.md)
 * [Find duplicate code with jscpd](javascript/find-duplicate-code-with-jscpd.md)
 * [Kill a process group](javascript/kill-process-group.md)
