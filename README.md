@@ -16,6 +16,7 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 * [Python](#python)
 
 # Bash
+* [Sort "human-readable" sizes](bash/sort-human-readable-sizes.md)
 * [Trap a signal](bash/catch-signal.md)
 
 # Git
