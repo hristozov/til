@@ -41,3 +41,6 @@ I use this for jotting down things that don't deserve a blog post. It's useful a
 
 # Python
 * [Get directory of current script](python/get-directory-of-current-script.md)
+
+# Ruby
+* [Find or replace a substring with `String#[]`/`String#[]=`](ruby/find-or-replace-substring-using-array-indexing-operator.md)
